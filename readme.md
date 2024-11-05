@@ -1,9 +1,4 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Avengers | Jo-ken-po Edition
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
-
-conceitos abordados:
-
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+- jogo criado com base no desafio da Dio de criar um jogo de cartas do Yo-Ge-Oh.
+- Alterei a temática para ser a dos Vingadores.
